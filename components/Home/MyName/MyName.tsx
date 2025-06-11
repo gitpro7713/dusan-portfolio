@@ -35,7 +35,7 @@ const MyName: React.FC<MyNameProps> = props => {
         }}
         className="text-gray-300 font-bold text-3xl lg:text-7xl sm:text-5xl md:text-6xl mt-4"
       >
-        Anaflous Abdellatif.
+        Andris Siliņš.
       </motion.h1>
       <motion.h2
         initial={{ y: 10, opacity: 0 }}
@@ -58,20 +58,14 @@ const MyName: React.FC<MyNameProps> = props => {
         }}
         className="text-gray-400 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
       >
-        I&apos;m a <span className="text-AAsecondary keyword-hover">Lead Full Stack Software Engineer</span> with strong{" "}
-        <span className="text-AAsecondary keyword-hover">problem-solving skills</span>, specializing in creating
-        exceptional digital experiences.
-        <br className="3xl:block hidden" /> With expertise in both{" "}
-        <span className="text-AAsecondary keyword-hover">front-end</span> and{" "}
-        <span className="text-AAsecondary keyword-hover">back-end development</span>, I work with a diverse range of
-        technologies, including <span className="text-AAsecondary keyword-hover">web3</span>
-        <br className="3xl:block hidden" /> and traditional web applications. I enjoy solving challenging projects that
-        drive <span className="text-AAsecondary keyword-hover">innovation</span> and deliver high-quality results.
-        <br className="3xl:block hidden" /> My experience in{" "}
-        <span className="text-AAsecondary keyword-hover">leading development teams</span> has honed my ability to
-        collaborate effectively and translate ideas into functional solutions.
-        <br className="3xl:block hidden" /> I actively seek dynamic projects where I can contribute to pushing the
-        boundaries of technology and drive impactful <span className="text-AAsecondary keyword-hover">innovation</span>.
+        I&apos;m a <span className="text-AAsecondary keyword-hover">Senior Full Stack Developer</span> with <span className="text-AAsecondary keyword-hover">9 years</span> of experience{" "} of proven success{" "}
+        <u>architecting and delivering</u> <span className="text-AAsecondary keyword-hover">innovative & high-performance</span> web applications.
+        <br className="3xl:block hidden" /> With deep expertise in{" "}<u>modern front-end frameworks</u>
+        <span className="text-AAsecondary keyword-hover">(React, Vue.js, Next.js)</span> and{" "}<u>robust back-end technologies</u>
+        <span className="text-AAsecondary keyword-hover">(Node.js, Laravel, Python)</span>, I bridge the gap between design and development to craft <span className="text-AAsecondary keyword-hover">seamless, user-centric</span> experiences.
+        <br className="3xl:block hidden" /> A <span className="text-AAsecondary keyword-hover">proactive problem-solver</span> and <span className="text-AAsecondary keyword-hover">effective leader </span>of team, I’ve guided <span className="text-AAsecondary keyword-hover">cross-functional teams</span>{" "}
+        to translate <u>complex requirements</u> into <span className="text-AAsecondary keyword-hover">scalable & production-ready</span> solutions. <br/> Passionate about leveraging <span className="text-AAsecondary keyword-hover">cutting-edge tools and methodologies</span>, I thrive on 
+        <span className="text-AAsecondary keyword-hover"> tackling challenging projects</span> that drive <span className="text-AAsecondary keyword-hover">impactful innovation</span> and <span className="text-AAsecondary keyword-hover">measurable business growth</span>
       </motion.h3>
       <motion.div
         initial={{ y: 10, opacity: 0 }}

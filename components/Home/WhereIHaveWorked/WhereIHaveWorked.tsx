@@ -9,7 +9,7 @@ import Fantasia from "./Descriptions/Fantasia";
 import SuperBerry from "./Descriptions/SuperBerry";
 import EnsVision from "./Descriptions/EnsVision";
 import YpredictAI from "./Descriptions/YpredictAI";
-import EnergyInstitute from "./Descriptions/EnergyInstitute";
+import Comrach from "./Descriptions/Comrach";
 export default function WhereIHaveWorked() {
   const barRef = React.useRef<HTMLDivElement>(null);
   // ? INFORMATIONAL control the green position using px,
@@ -32,11 +32,11 @@ export default function WhereIHaveWorked() {
         return <Fantasia />;
       case "SuperBerry":
         return <SuperBerry />;
-      case "EnergyInstitute":
-        return <EnergyInstitute />;
+      case "Comrach":
+        return <Comrach />;
     }
   };
-  const [DescriptionJob, setDescriptionJob] = React.useState("EnergyInstitute");
+  const [DescriptionJob, setDescriptionJob] = React.useState("Comrach");
   return (
     <div data-aos="fade-up" className="flex flex-col items-center justify-center py-24 space-y-12 bg-AAprimary">
       {/* // ? Title "Where I've Worked" */}
@@ -126,10 +126,10 @@ const CompaniesBar = props => {
         <div className="flex flex-row md:flex-col">
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={0}
-            CompanyName="EnergyInstitute"
+            CompanyName="Comrach"
             BarPosition={-10}
             BarAvobePosition={1}
-            DescriptionJob="EnergyInstitute"
+            DescriptionJob="Comrach"
             CompanyNameBackgroundColorGreen={[true, false, false, false, false, false, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
