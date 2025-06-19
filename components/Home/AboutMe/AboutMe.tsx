@@ -41,16 +41,16 @@ const AboutMe = forwardRef<HTMLDivElement, AboutMeProps>((props, ref) => {
               <span className="text-AAsecondary">computer science degree</span> and{" "}
               <span className="text-AAsecondary">Bachelor&apos;s in Computer Science</span>, I&apos;ve spent{" "}
               <span className="text-AAsecondary">+7 years</span> honing my skills professionally and have been lucky
-              enough to work with some really interesting companies and startups. <br/>I’ve led cross-functional teams to launch 
+              enough to work with some really interesting companies and startups. <br/>I&apos;ve led cross-functional teams to launch 
               everything from <span className="text-AAsecondary">enterprise portals</span>(Flutter + Firebase) to 
               <span className="text-AAsecondary"> NFC-powered media platforms</span> and even 
               <span className="text-AAsecondary"> stealth monitoring bots</span> for real-time event tracking.
             </div>
             <div className="font-Header text-gray-400 text-justify">
-            What excites me most is tackling new challenges—whether it’s exploring <span className="text-AAsecondary">AI-driven automation</span>, architecting <span className="text-AAsecondary">microservices</span>, 
-            or pushing the limits of <span className="text-AAsecondary">web3</span> integrations. <br/>I’m always learning, always iterating, and always committed to delivering 
-            <span className="text-AAsecondary"> impactful innovation</span>. <br/>If you’re looking for a developer who can lead technical vision, mentor teams, and translate 
-            ambitious ideas into production-ready solutions, <span className="text-AAsecondary">LET’S CONNECT!</span>
+            What excites me most is tackling new challenges—whether it&apos;s exploring <span className="text-AAsecondary">AI-driven automation</span>, architecting <span className="text-AAsecondary">microservices</span>, 
+            or pushing the limits of <span className="text-AAsecondary">web3</span> integrations. <br/>I&apos;m always learning, always iterating, and always committed to delivering 
+            <span className="text-AAsecondary"> impactful innovation</span>. <br/>If you&apos;re looking for a developer who can lead technical vision, mentor teams, and translate 
+            ambitious ideas into production-ready solutions, <span className="text-AAsecondary">LET&apos;S CONNECT!</span>
             </div>
             <div className="font-Header tracking-wide text-gray-400 pt-2 pb-1 text-justify">
               Here&apos;s what I&apos;m usually working with these days:

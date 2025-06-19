@@ -63,7 +63,7 @@ const MyName: React.FC<MyNameProps> = props => {
         <br className="3xl:block hidden" /> With deep expertise in{" "}<u>modern front-end frameworks</u>
         <span className="text-AAsecondary keyword-hover">(React, Vue.js, Next.js)</span> and{" "}<u>robust back-end technologies</u>
         <span className="text-AAsecondary keyword-hover">(Node.js, Laravel, Python)</span>, I bridge the gap between design and development to craft <span className="text-AAsecondary keyword-hover">seamless, user-centric</span> experiences.
-        <br className="3xl:block hidden" /> A <span className="text-AAsecondary keyword-hover">proactive problem-solver</span> and <span className="text-AAsecondary keyword-hover">effective leader </span>of team, I’ve guided <span className="text-AAsecondary keyword-hover">cross-functional teams</span>{" "}
+        <br className="3xl:block hidden" /> A <span className="text-AAsecondary keyword-hover">proactive problem-solver</span> and <span className="text-AAsecondary keyword-hover">effective leader </span>of team, I&apos;ve guided <span className="text-AAsecondary keyword-hover">cross-functional teams</span>{" "}
         to translate <u>complex requirements</u> into <span className="text-AAsecondary keyword-hover">scalable & production-ready</span> solutions. <br/> Passionate about leveraging <span className="text-AAsecondary keyword-hover">cutting-edge tools and methodologies</span>, I thrive on 
         <span className="text-AAsecondary keyword-hover"> tackling challenging projects</span> that drive <span className="text-AAsecondary keyword-hover">impactful innovation</span> and <span className="text-AAsecondary keyword-hover">measurable business growth</span>
       </motion.h3>
