@@ -106,7 +106,7 @@ export default function Home() {
 
   console.log("website is rendering...");
   const meta = {
-    title: "Andris Siliņš - Senior full stack developer",
+    title: "Dusan Hajilo - Senior full stack developer",
     description: `I've been working on Software development for 5 years straight. Get in touch with me to know more.`,
     image: "/titofCercle.png",
     type: "website",
