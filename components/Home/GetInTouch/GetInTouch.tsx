@@ -39,7 +39,7 @@ export default function GetInTouch() {
             abdellatif@anaflous.com
           </button>
         ) : (
-          <a href="https://outlook.live.com/mail/0/" target={"_blank"} rel="noreferrer">
+          <a href="https://mail.google.com/mail/u/0/?hl=zh_CN#inbox" target={"_blank"} rel="noreferrer">
             <button
               className="font-mono text-sm text-AAsecondary border-AAsecondary 
                             px-8 py-4 border-[1.5px] rounded "

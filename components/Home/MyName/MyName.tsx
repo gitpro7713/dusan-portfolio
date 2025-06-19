@@ -35,7 +35,7 @@ const MyName: React.FC<MyNameProps> = props => {
         }}
         className="text-gray-300 font-bold text-3xl lg:text-7xl sm:text-5xl md:text-6xl mt-4"
       >
-        Andris Siliņš.
+        Dusan Hajilo.
       </motion.h1>
       <motion.h2
         initial={{ y: 10, opacity: 0 }}
@@ -58,7 +58,7 @@ const MyName: React.FC<MyNameProps> = props => {
         }}
         className="text-gray-400 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
       >
-        I&apos;m a <span className="text-AAsecondary keyword-hover">Senior Full Stack Developer</span> with <span className="text-AAsecondary keyword-hover">9 years</span> of experience{" "} of proven success{" "}
+        I&apos;m a <span className="text-AAsecondary keyword-hover">Senior Full Stack Developer</span> with <span className="text-AAsecondary keyword-hover">7+ years</span> of experience{" "} of proven success{" "}
         <u>architecting and delivering</u> <span className="text-AAsecondary keyword-hover">innovative & high-performance</span> web applications.
         <br className="3xl:block hidden" /> With deep expertise in{" "}<u>modern front-end frameworks</u>
         <span className="text-AAsecondary keyword-hover">(React, Vue.js, Next.js)</span> and{" "}<u>robust back-end technologies</u>

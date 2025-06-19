@@ -10,7 +10,7 @@ const ClickableIcon = props => {
 };
 const IconsData = [
   { href: "https://github.com/masdev94", Icon: GithubIcon },
-  { href: "https://www.linkedin.com/in/andris-sili%C5%86%C5%A1-972b8036a/", Icon: LinkedinIcon }
+  { href: "", Icon: LinkedinIcon }
 ];
 
 export default function Fotter(props: { githubUrl: string; hideSocialsInDesktop: boolean }) {
@@ -28,7 +28,7 @@ export default function Fotter(props: { githubUrl: string; hideSocialsInDesktop:
     text-sm  space-y-2  "
         >
           <span className="group-hover:text-AAsecondary sm:text-sm text-xs">
-            Built by  Andris Siliņš
+            Built by  Dusan Hajilo
           </span>
 
           <span className="text-xs flex flex-row items-center space-x-2 group-hover:text-AAsecondary">

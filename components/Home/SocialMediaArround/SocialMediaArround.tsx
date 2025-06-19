@@ -34,7 +34,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
             {/* Github Icon */}
             <IconClickableWithAnimation Icon={GithubIcon} href={"https://github.com/masdev94"} />
             {/* Linkedin icon */}
-            <IconClickableWithAnimation Icon={LinkedinIcon} href={"https://www.linkedin.com/in/andris-sili%C5%86%C5%A1-972b8036a/"} />
+            <IconClickableWithAnimation Icon={LinkedinIcon} href={""} />
           </div>
           <div className="h-28 w-0.5 bg-gray-400"></div>
         </div>
@@ -60,7 +60,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
           >
             <a href="https://outlook.live.com/mail/0/" target={"_blank"} rel="noreferrer">
               <span className=" font-Header tracking-wider text-gray-400 hover:text-AAsecondary hover:cursor-pointer">
-                Andris7710<span className="text-AAsecondary">@</span>outlook<span className="text-AAsecondary">.</span>com
+              denis930410<span className="text-AAsecondary">@</span>gmail<span className="text-AAsecondary">.</span>com
               </span>
             </a>
           </motion.div>

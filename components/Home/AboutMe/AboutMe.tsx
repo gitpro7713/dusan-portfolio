@@ -33,14 +33,14 @@ const AboutMe = forwardRef<HTMLDivElement, AboutMeProps>((props, ref) => {
           {/* Text Content */}
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm">
             <div className="font-Header text-gray-400 text-justify">
-              Hey there! I&apos;m <b>Andris Siliņš</b> and I thrive at the intersection of design and code, transforming 
+              Hey there! I&apos;m <b>Dusan Hajilo</b> and I thrive at the intersection of design and code, transforming 
               complex requirements into seamless, user-centric experiences that drive real business value.
             </div>
             <div className="font-Header text-gray-400 text-justify">
               After years of teaching myself and eventually getting my{" "}
               <span className="text-AAsecondary">computer science degree</span> and{" "}
               <span className="text-AAsecondary">Bachelor&apos;s in Computer Science</span>, I&apos;ve spent{" "}
-              <span className="text-AAsecondary">+9 years</span> honing my skills professionally and have been lucky
+              <span className="text-AAsecondary">+7 years</span> honing my skills professionally and have been lucky
               enough to work with some really interesting companies and startups. <br/>I’ve led cross-functional teams to launch 
               everything from <span className="text-AAsecondary">enterprise portals</span>(Flutter + Firebase) to 
               <span className="text-AAsecondary"> NFC-powered media platforms</span> and even 

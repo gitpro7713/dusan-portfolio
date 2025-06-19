@@ -41,7 +41,7 @@ export default function SomethingIveBuilt() {
            transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
                 ></div>
               </a>
-              <Img src={"/metaverse.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
+              <Img src={"/zeekr.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
             </div>
           </div>
 
@@ -61,28 +61,30 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start  space-y-3 md:order-1"
             >
               <div className="flex flex-col space-y-1  z-10">
-                <span className="text-AAsecondary text-base">Recent Project</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <a href="https://www.pavia.io" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Metaverse Exp
+                    Zeekr
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left">
-                <span className="text-AAsecondary">Optimized</span> overall <span className="text-AAsecondary">site performance</span> through strategic asset loading, code splitting, and caching, and <span className="text-AAsecondary">extended</span> the CMS to streamline content updates, 
-                community events, and asset drops without developer intervention.
+                  This website presents a strong opportunity for me to contribute my expertise in building high-performance, visually immersive frontends using Next.js, 
+                  TailwindCSS, and GSAP. <br/>I can elevate the user experience by optimizing the animations, refining responsive behavior, and integrating a headless CMS to 
+                  streamline content updates. <br/>With my background in translating advanced UI/UX designs into fast, scalable code, I’m confident in improving both the 
+                  technical foundation and design fidelity of this platform.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-start"
               >
+                <span className="pr-4 z-10">Vue.js</span>
+                <span className="pr-4 z-10">Nuxt.js</span>
+                <span className="pr-4 z-10">Howler.js</span>
                 <span className="pr-4 z-10">Three.js</span>
-                <span className="pr-4 z-10">jQuery CDN</span>
-                <span className="pr-4 z-10">Lenis</span>
-                <span className="pr-4 z-10">TailwindCSS</span>
-                <span className="pr-4 z-10">jQuery</span>
+                <span className="pr-4 z-10">PWA</span>
               </ul>
             </div>
           </div>
@@ -133,7 +135,7 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start md:items-end space-y-3"
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
-                <span className="text-AAsecondary text-base">Recent Project</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <a href="https://seacat.rossinavi.it" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     SeaCat Wave
@@ -143,7 +145,7 @@ export default function SomethingIveBuilt() {
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
                   I had the opportunity to contribute to the digital experience of Sea Cat by Rossinavi, bringing its groundbreaking hybrid-electric catamaran to life online
-                  This project let me blend my passion for <span className="text-AAsecondary">high-performance web solutions</span> with cutting-edge <span className="text-AAsecondary">marine innovation</span>, delivering a user-centric portal worthy of the “New Superyacht Generation.”
+                  This project let me blend my passion for high-performance web solutions with cutting-edge marine innovation, delivering a user-centric portal worthy of the “New Superyacht Generation.”
                 </p>
               </div>
               <ul
@@ -175,7 +177,7 @@ export default function SomethingIveBuilt() {
            transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
                 ></div>
               </a>
-              <Img src={"/ensvision.jpg"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
+              <Img src={"/cloud.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
             </div>
           </div>
 
@@ -186,7 +188,7 @@ export default function SomethingIveBuilt() {
               <div className="relative w-full h-full">
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
-                <Img src={"/ensvision.jpg"} alt={"Project Screen shot"} className={`w-full h-full`} />
+                <Img src={"/cloud.png"} alt={"Project Screen shot"} className={`w-full h-full`} />
               </div>
             </div>
 
@@ -195,32 +197,30 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start  space-y-3 md:order-1"
             >
               <div className="flex flex-col space-y-1  z-10">
-                <span className="text-AAsecondary text-base">Vision.io</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <a href="https://www.vision.io" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    ENS names Marketplace
+                    Sanctuary in the clouds
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-left ">
-                  At <span className="text-AAsecondary">Vision</span>, I played a crucial role in developing web3
-                  components for their <span className="text-AAsecondary">web3 application</span> using Next.js and web3
-                  libraries. Our focus was on integrating new features and improving the user interface. One notable
-                  achievement was the release of NameWrapper with <span className="text-AAsecondary">ERC72</span>{" "}
-                  support, enabling users to create <span className="text-AAsecondary">subdomains</span>. This showcased
-                  our commitment to delivering innovative solutions.
+                  I contributed to the development of this website by implementing its distinctive brutalist design using advanced frontend technologies, 
+                  ensuring seamless motion, responsive behavior, and high performance across devices. I was responsible for integrating custom animations 
+                  with GSAP and optimizing interactive elements for smooth user experiences. My role also included enhancing the site's scalability and 
+                  cross-browser compatibility while preserving its bold visual identity.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-start"
               >
-                <span className="pr-4 z-10">ENS domains</span>
-                <span className="pr-4 z-10">ENS names</span>
-                <span className="pr-4 z-10">web3</span>
-                <span className="pr-4 z-10">NFT</span>
-                <span className="pr-4 z-10">ERC72</span>
+                <span className="pr-4 z-10">Vue.js</span>
+                <span className="pr-4 z-10">Nuxt.js</span>
+                <span className="pr-4 z-10">GSAP</span>
+                <span className="pr-4 z-10">Howler.js</span>
+                <span className="pr-4 z-10">Tailwindcss</span>
               </ul>
             </div>
           </div>
@@ -262,7 +262,7 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start md:items-end space-y-3"
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
-                <span className="text-AAsecondary text-base">Recent Project</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <Link href={"https://hermitage.at"}>
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Hermitage Vital
@@ -271,8 +271,8 @@ export default function SomethingIveBuilt() {
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left">
-                  <span className="text-AAsecondary">Architected</span> a fully <span className="text-AAsecondary">responsive & mobile-first</span> layout that highlights the resort’s unique suites, apartments, and wellness offerings in an immersive, visually-driven design.<br/>
-                  <span className="text-AAsecondary">Developed</span> an <span className="text-AAsecondary">interactive gallery</span> and <span className="text-AAsecondary">room selector</span> with live availability indicators and filtering by view, suite type, or special package—to turn browsing into booking.
+                  Architected a fully responsive & mobile-first layout that highlights the resort’s unique suites, apartments, and wellness offerings in an immersive, visually-driven design.<br/>
+                  Developed an interactive gallery and room selector with live availability indicators and filtering by view, suite type, or special package—to turn browsing into booking.
                 </p>
               </div>
               <ul
@@ -303,7 +303,7 @@ export default function SomethingIveBuilt() {
            transition-opacity opacity-10 hover:opacity-0 hover:cursor-pointer duration-300"
                 ></div>
               </Link>
-              <Img src={"/boson.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
+              <Img src={"/capsule.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
             </div>
           </div>
 
@@ -314,7 +314,7 @@ export default function SomethingIveBuilt() {
               <div className="relative w-full h-full">
                 <div className="absolute w-full h-full bg-AAsecondary opacity-10 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
-                <Img src={"/boson.png"} alt={"Project Screen shot"} className={`w-full h-full`} />
+                <Img src={"/capsule.png"} alt={"Project Screen shot"} className={`w-full h-full`} />
               </div>
             </div>
 
@@ -323,29 +323,29 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start  space-y-3 md:order-1"
             >
               <div className="flex flex-col space-y-1  z-10">
-                <span className="text-AAsecondary text-base">Recent Project</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <Link href={"https://www.bosonprotocol.io"}>
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Boson Metasystem
+                    Capsules
                   </span>
                 </Link>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                <span className="text-AAsecondary">Streamlined</span> the deployment pipeline with <span className="text-AAsecondary">automated testing, linting, & staged rollouts</span> to guarantee reliable, error-free releases.
-                <span className="text-AAsecondary">Collaborated</span> with Boson’s core team to align on <span className="text-AAsecondary">branding</span>, legal disclaimers, and developer documentation, translating complex <span className="text-AAsecondary">DeFi concepts</span> into clear, user-friendly pages.
-                <span className="text-AAsecondary">Improved accessibility</span> and <span className="text-AAsecondary">cross-browser consistency</span>, ensuring compliance with WCAG standards for an inclusive user experience.
+                I contributed by implementing responsive layouts and interactive components based on detailed design specifications. 
+                My work focused on integrating smooth animations, optimizing performance, and ensuring cross-device compatibility. 
+                I collaborated closely with the lead developers to maintain code quality and deliver a seamless, engaging user experience.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-start"
               >
-                <span className="pr-4 z-10">React.js</span>
-                <span className="pr-4 z-10">Next.js</span>
-                <span className="pr-4 z-10">TailwindCSs</span>
-                <span className="pr-4 z-10">Cookie Script</span>
-                <span className="pr-4 z-10">Vercel</span>
+                <span className="pr-4 z-10">Vue.js</span>
+                <span className="pr-4 z-10">Nuxt.js</span>
+                <span className="pr-4 z-10">Lenis</span>
+                <span className="pr-4 z-10">AWS</span>
+                <span className="pr-4 z-10">GSAP</span>
               </ul>
             </div>
           </div>
@@ -391,7 +391,7 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start md:items-end sm:space-y-3 space-y-1"
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
-                <span className="text-AAsecondary text-base">Recent Project</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <a href="https://www.enaathletics.com" target={"_blank"} rel="noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Ena Athletics
@@ -435,7 +435,7 @@ export default function SomethingIveBuilt() {
                 ></div>
               </a>
 
-              <Img src={"/wine.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
+              <Img src={"/payana.png"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
             </div>
           </div>
 
@@ -446,7 +446,7 @@ export default function SomethingIveBuilt() {
               <div className="relative w-full h-full">
                 <div className="absolute w-full h-full bg-AAprimary opacity-50 z-10"></div>
                 <div className="absolute w-full h-full bg-AAprimary opacity-80 z-10"></div>
-                <Img src={"/wine.png"} alt={"Project Screen shot"} className={`w-full h-full`} />
+                <Img src={"/payana.png"} alt={"Project Screen shot"} className={`w-full h-full`} />
               </div>
             </div>
 
@@ -455,17 +455,18 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start  sm:space-y-3 md:order-1"
             >
               <div className="flex flex-col space-y-1  z-10">
-                <span className="text-AAsecondary text-base">Recent Project</span>
+                <span className="text-AAsecondary text-base">My project</span>
                 <a href="https://finnthomson.com" target={"_blank"} rel="noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Finn Thomson Wine
+                    Payana Vintage
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                <span className="text-AAsecondary">Finn Thomson</span>Finn Thomson’s site is a premium digital showcase for a <span className="text-AAsecondary">nine-generation Scotch whisky lineage</span>, designed to immerse visitors from the very first click.
-                <span className="text-AAsecondary">Responsive & mobile-first</span> design ensures flawless viewing across devices, with <span className="text-AAsecondary">image-rich layouts</span> and accessible typography.
+                  I contributed to the development by helping implement an immersive, scroll-based storytelling experience that brings the digital museum concept to life. 
+                  My work involved fine-tuning visual transitions, optimizing image-heavy sections for performance, and ensuring responsive behavior across devices. 
+                  I collaborated with the team to deliver a seamless fusion of interactive design and smooth navigation that enhances the user’s journey through the exhibition content.
                 </p>
               </div>
               <ul
@@ -475,7 +476,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">WordPress</span>
                 <span className="pr-4 z-10">GSAP</span>
                 <span className="pr-4 z-10">MySQL</span>
-                <span className="pr-4 z-10">Swiper</span>
+                <span className="pr-4 z-10">Lenis</span>
               </ul>
             </div>
           </div>
